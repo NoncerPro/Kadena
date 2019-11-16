@@ -1,4 +1,4 @@
-# Kadena GPU miner for Nvidia graphic cards.
+# Kadena GPU miner for Nvidia graphic cards
 
 
 ### Links 

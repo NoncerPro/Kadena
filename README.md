@@ -17,6 +17,7 @@ Options
   -s, --server     Node server address
                    Example: -s fr1.chainweb.com               [array] [required]
   -p, --port       Node server port                           [array] [required]
+  -n, --name       Rig name                                             [string]
   -d, --devices    Active GPUs
                    Example: -d=0 1 3
                    Default: All available GPUs                           [array]
@@ -25,7 +26,12 @@ Options
                    Default: 1                                            [array]
   -i, --intensity  between 10 to 30. Supports decimals
                    Example: -i 26.5 or -i 23.6 30 25
-                   Default: 26                                           [array]
+                   Default: 26.5                                         [array]
+  --api            Enable/Disable API
+                   Default: Enable                                     [boolean]
+  --apiport        API port
+                   Default: 3000                                        [number]                 
+  -c, --chain      Preferred chain to mine on                           [number]
   -h, --help       Show help                                           [boolean]
   -v, --version    Show version number                                 [boolean]
 ```

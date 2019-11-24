@@ -9,6 +9,7 @@ Discord server : https://discord.gg/mXnyrHa
 
 releases: https://github.com/NoncerPro/Kadena/releases
 
+![](https://img.shields.io/github/downloads/NoncerPro/Kadena/total.svg?style=plastic)
 
 Options
 ------------------------------------------

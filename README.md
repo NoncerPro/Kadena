@@ -34,7 +34,7 @@ Options
                     Default: 23 or 26                                    [array]
   -c, --chain       Preferred chain to mine on                          [number]
   -r, --random      Enable/Disable random starting nonce
-                    Default: false                                     [boolean]
+                    Default: true                                     [boolean]
   --ai, --api       Enable/Disable API
                     Default: true                                      [boolean]
   --ap, --apiport   API port

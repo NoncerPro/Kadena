@@ -70,6 +70,7 @@ Soon
 
 Dev fee
 ------------------------------------------
-This miner has a fixed 5% dev fee. That means 5 minutes in every 100 minutes, miner will run with the donation address. 
+This miner has a fixed 2% dev fee. That means 5 minutes in every 100 minutes, miner will run with the donation address. 
+Devfee of versions prior to 2.0 is 5%.
 
 Happy mining!

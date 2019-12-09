@@ -35,7 +35,6 @@ Options
                     Example: -t 2 or -t 2 2 4
                     Default: 2                                           [array]
   -i, --intensity   between 10 to 30. Supports decimals
-                    Maximum for none rtx nvidia cards is 23
                     Example: -i 26.5 or -i 23.6 25
                     Default: 26                                          [array]
   -c, --chain       Preferred chain to mine on                          [number]

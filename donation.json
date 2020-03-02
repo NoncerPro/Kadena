@@ -1,12 +1,12 @@
 {
 	"amd": {
-		"host": "kda-us.icemining.ca",
-		"port": "3700",
+		"host": "kda.ss.poolflare.com",
+		"port": "443",
 		"address": "cc6ac9c704cdbcb2f30e7f1377f61df3b8f8bb963f54c11811680f9900ae8c54"
 	},
 	"nvidia": {
-		"host": "kda-us.icemining.ca",
-		"port": "3700",
+		"host": "kda.ss.poolflare.com",
+		"port": "443",
 		"address": "22a9e01a43a2e2fd4fc9220ea0b896f64b201748882434d78e288c82c002c428"
 	},
 	"version": "2.2.0"
